@@ -1,0 +1,1 @@
+create database named "mis" and import these tables
